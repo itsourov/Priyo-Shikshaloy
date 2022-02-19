@@ -1,0 +1,8 @@
+<!DOCTYPE resources [<!ENTITY appname "প্রিয় শিক্ষালয়"><!ENTITY author "MrGreen">]>
+<resources>
+    <string name="app_name">&appname;</string>
+    <string name="acceptance"><![CDATA[You are going to accept the terms & conditions and Privacy policy of ]]>&appname;</string>
+    <string name="enterApp">প্রবেশ করুন</string>
+
+
+</resources>
