@@ -5,9 +5,10 @@
       <map>
         <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/drawable/round_bg.xml" value="0.197" />
         <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/layout/activity_auth.xml" value="0.2" />
-        <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/layout/activity_homepage.xml" value="0.2" />
+        <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
         <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/layout/activity_splash.xml" value="0.25" />
         <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/layout/progress_bar.xml" value="0.2" />
+        <entry key="..\:/Users/sourov/AndroidStudioProjects/MeghaPrototype1/app/src/main/res/menu/bottom_menu.xml" value="0.2" />
       </map>
     </option>
   </component>
